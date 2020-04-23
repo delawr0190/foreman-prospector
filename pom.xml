@@ -40,7 +40,7 @@
         <commons-lang.version>3.7</commons-lang.version>
         <easymock.version>3.5.1</easymock.version>
         <jackson.version>2.9.10</jackson.version>
-        <jackson-databind.version>2.9.10.3</jackson-databind.version>
+        <jackson-databind.version>2.9.10.4</jackson-databind.version>
         <junit.version>4.12</junit.version>
         <logback.version>1.2.3</logback.version>
         <slf.version>1.7.25</slf.version>
